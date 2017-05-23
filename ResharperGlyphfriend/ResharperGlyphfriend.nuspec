@@ -1,21 +1,20 @@
 <?xml version="1.0"?>
 <package >
   <metadata>
-    <id>Hunt.ResharperGlyphfriend</id>
-    <version>0.8.0</version>
+    <id>DChristensen.ResharperGlyphfriend</id>
+    <version>0.9.0</version>
     <title>Resharper Glyphfriend</title>
     <authors>Kelby Hunt</authors>
-    <owners>Kelby Hunt</owners>
+    <owners>Derek Christensen</owners>
     <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
-    <projectUrl>https://github.com/Huntk23/ResharperGlyphfriend</projectUrl>
-    <iconUrl>https://github.com/Huntk23/ResharperGlyphfriend</iconUrl>
+    <projectUrl>https://github.com/dchristensen/ResharperGlyphfriend</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Beta release for drawing glyph icons into IntelliSense for easy previewing.</description>
     <releaseNotes>Beta release</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>Glyph Icon IntelliSense</tags>
     <dependencies>
-      <dependency id="Wave" version="[5.0]" />
+      <dependency id="Wave" version="[8.0]" />
     </dependencies>
   </metadata>
   <files>
