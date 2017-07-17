@@ -237,7 +237,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <None Include="ResharperGlyphfriend.nuspec" />
+    <None Include="ResharperGlyphfriend.nuspec">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="Glyphs\FontAwesome\fa-sort-down.png" />
